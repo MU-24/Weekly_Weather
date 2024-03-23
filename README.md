@@ -1,3 +1,4 @@
+
 # Weather App
 
 This is a simple web application that provides a weekly weather forecast for different cities.
@@ -45,3 +46,6 @@ Copy code
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 
+=======
+# Weekly_Weather
+>>>>>>> 2d1e695f201c729103e7c4353dc456d8b5ec79b2
